@@ -1,0 +1,11 @@
+body{
+	padding:0;
+}
+.opcoes{
+	text-align: center;
+	height: 30px;
+}
+table{
+	margin:auto;
+	text-align: center;
+}
